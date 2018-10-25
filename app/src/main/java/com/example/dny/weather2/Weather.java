@@ -1,7 +1,7 @@
-package com.example.dny.weather2;
+package com.example.home.weather2;
 
 
-//Watch the video here @https://www.youtube.com/watch?v=FGyaJ5MH3Hg.THANK YOU :)
+
 
 
 import android.graphics.Bitmap;
